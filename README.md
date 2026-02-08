@@ -51,4 +51,4 @@ Contributions are welcome! Fork the repository, create a branch, and submit a pu
 
 ---
 
-> Developed with dedication by [Kalyan Kumar Bonala](https://github.com/bonalakalyankumar)
+> Developed with dedication by [Rohith Reddy Akepati](https://github.com/rohith-reddy-akepati/)
