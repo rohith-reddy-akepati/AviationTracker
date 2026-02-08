@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962716103049",
+    "project_id": "authenticate-b8ca1",
+    "storage_bucket": "authenticate-b8ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962716103049:android:f0c6b988994bd54fec3158",
+        "android_client_info": {
+          "package_name": "com.example.aviation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962716103049-h7p1h85s844o5p1pmac44rr2hs64ns90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHh60Z75rt8upSMIO_KKTVAxFQQcemJj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962716103049-h7p1h85s844o5p1pmac44rr2hs64ns90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
